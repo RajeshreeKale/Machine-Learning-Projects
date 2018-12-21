@@ -1,0 +1,76 @@
+-readme.txt: This is the text document
+-Main.py: The main code for the game
+-plotting.py		  :Python file to for plotting the generated data
+-losing the game SS.png   :Screenshot of losing the game
+-lost case.png	 	  :Screenshot of losing the game(visualization)
+-Winning SS.png 	  :Screenshot of winnning the game
+-Winning Case SS.png	  :Screenshot of data visualization winning case
+-losing the game SS 2.png :Screenshot of data visualization
+-Testing.png 		  :Screenshot of testing the game
+
+
+How TO PLAY
+
+In the land of“PRINCE OF PERSIA: SANDS OF TIME” where the holy city of Alamut resides the Sands of Time,gives mortals the power to turn back time. 
+After leading an attack on the city, Dastan (The Devil), the adopted son of Persia's king, acquired a 
+dagger that gives the one who holds it access to the Sands. The Prince needs to traverse through 5 rooms 
+to protect the ancient treasure from dark forces and unmask the king's assassin by killing Dastan!
+Through each room the player will be given 5 options and he has to select one option which will mark his way to win the treasure chest.
+
+
+HOW TO WIN
+
+________________________
+
+Inorder to win the game, the player needs to go through the following path:
+
+1)The player will initially arrive at The Great Hall! 
+In this room,he will have to pass through a troll of weapons and armor.If the player wants 
+an entry to the next room then he needs to pick a shield.
+
+2)The second level that the player needs to play is the Dungeon!
+ In this room, he has to search for the “MAGIC POUCH”.The magic pouch will give the player an 
+opportunity to go to the next room.
+
+ 
+3)The third room is the Garden Area!
+ In this room, the player needs to “SOLVE THE PUZZLE”. If the player is able to solve the puzzle then 
+only he wins the opportunity to gain the Treasure Chest and go to the next room.
+
+
+ 
+4)The game then takes the player closer to the winning condition by entering the next room.
+In this room,the player needs to find the water sword which will be needed to kill Dastan in the next room. 
+
+5)The player then enters The Time Chambers! 
+This is the final room and last chance for the player to win the game. 
+In this room the player has to kill the Dastan using the water sword that will help him win the treasure chest.
+ 
+
+HOW TO LOSE
+
+----------------------------
+
+As the player passes through the rooms, he has to select any one option from the given 5 options.
+The most commom way to lose the game is 
+1)if the player is not able to select the correct option. That would be by donating health points 
+and moving forward in the game. This might take the player to the next room but that would increase the chances of the player
+to lose the game.
+
+2)Another possibility to lose is if the player is unable to solve the puzzle.
+
+3)If the player chooses an incorrect/invalid option that also leads to a losing condition.
+
+4)If the player selects the option to collect gold coins that would only update to his utility and his chances to win the 
+game would be less
+
+5)By selecting options such as dodging the monster and unable to find the key to unlock the treasure chest may also lead to a
+losing condition.  
+
+
+
+
+
+
+
+
