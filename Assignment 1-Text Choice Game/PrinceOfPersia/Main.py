@@ -1,4 +1,4 @@
-'''Name- Parag Bhingarkar
+'''Name- Rajeshree Kale
     Assignment 1 - Text Choice game'''
 
 
